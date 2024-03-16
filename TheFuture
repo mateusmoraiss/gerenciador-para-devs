@@ -1,3 +1,8 @@
+let Used_Artificial_Intelligence = true;
+let Usei_Inteligencia_Artificial = true;
+let Used_Previous_Template = true;
+let Usei_Template_Previo = true;
+
 if (Used_Artificial_Intelligence === true) {
     var Approximate_Level_Used = "10%";
     var How_Used = "I used ChatGPT to learn how to create the typing effect.";
