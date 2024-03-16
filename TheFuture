@@ -6,21 +6,20 @@ let Usei_Template_Previo = true;
 if (Used_Artificial_Intelligence === true) {
     var Approximate_Level_Used = "10%";
     var How_Used = "I used ChatGPT to learn how to create the typing effect.";
-
+}
     if (Used_Previous_Template === true) {
         var Credit = "Unfortunately, the author of the templates I used has removed their YouTube video. Nevertheless, I completely altered the template, utilized mostly CSS for the design, and only kept a few JS codes to save time.";
     } else {
         var Credit = "100% original";
     }
-}
+
 
 if (Usei_Inteligencia_Artificial === true) {
     var Nivel_Aproximado_Usado = "10%";
     var Como_Usei = "Usei ChatGPT para aprender a fazer o efeito de digitação";
-
+}
     if (Usei_Template_Previo === true) {
         var Credito = "Infelizmente a autora dos templates que usei removeu seu vídeo do YT, mesmo assim alterei 100% o template, coloquei quase todo feito em css e aproveitei apenas alguns codigos JS para otimizar tempo";
     } else {
         var Credito = "100% autoral";
     }
-}
